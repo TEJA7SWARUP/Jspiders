@@ -1,0 +1,9 @@
+import java.util.Scanner;
+class Hcf_Of_Two_Numbers
+{
+	public static void main(String[] args) 
+	{
+		Scanner se = new Scanner(System.in);
+		System.out.println("Hello World!");
+	}
+}
