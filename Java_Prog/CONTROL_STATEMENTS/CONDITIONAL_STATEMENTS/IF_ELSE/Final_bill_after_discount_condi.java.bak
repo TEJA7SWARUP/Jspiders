@@ -1,0 +1,10 @@
+import java.util.Scanner;
+class Final_bill_after_discount_condi
+{
+	public static void main(String[] args) 
+	{
+		Scanner se = new Scanner(System.in);
+
+		System.out.println("Hello World!");
+	}
+}
